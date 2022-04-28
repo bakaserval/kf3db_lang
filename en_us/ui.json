@@ -1,0 +1,16 @@
+{
+  "#main-quest": "关卡",
+  "#main-photo": "照片",
+  "#main-friends": "Friends",
+  "#main-status": "数据表",
+  "#main-scenario": "剧情",
+  "#event-current-title": "当前活动",
+  "#event-future-title": "未来活动",
+  "#update-check-btn": "更新",
+  "#update-manual-check": {
+    "title": "手动更新每 10 分钟可按一次"
+  },
+  ".update-last-check-text": "上次检查时间：",
+  "#update-ongoing-text": "更新中 ",
+  "#update-cancelled-text": "更新中断"
+}

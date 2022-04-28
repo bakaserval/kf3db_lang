@@ -1,0 +1,12 @@
+{
+  "lang": [
+    ["en_us", "English"],
+    ["zh_cn", "简体中文"]
+  ],
+  "default": {
+    "ui": "en_us",
+    "quest": "ja_jp",
+    "chara": "ja_jp",
+    "photo": "ja_jp"
+  }
+}

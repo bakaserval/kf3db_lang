@@ -1,0 +1,16 @@
+{
+  "#main-quest": "Quest",
+  "#main-photo": "Photo",
+  "#main-friends": "Friends",
+  "#main-status": "Status",
+  "#main-scenario": "Scenario",
+  "#event-current-title": "Current Event",
+  "#event-future-title": "Future Event",
+  "#update-check-btn": "Update",
+  "#update-manual-check": {
+    "title": "Manual check is limited to once per 10 minutes"
+  },
+  ".update-last-check-text": "Last check:",
+  "#update-ongoing-text": "Data Updating ",
+  "#update-cancelled-text": "Last update cancelled"
+}
