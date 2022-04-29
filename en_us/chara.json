@@ -1,0 +1,839 @@
+{
+  "1": {
+    "name": "Dhole"
+  },
+  "2": {
+    "name": "Serval"
+  },
+  "3": {
+    "name": "Fennec"
+  },
+  "4": {
+    "name": "Common Raccoon"
+  },
+  "5": {
+    "name": "Tasmanian Devil"
+  },
+  "6": {
+    "name": "Small-clawed Otter"
+  },
+  "7": {
+    "name": "Jaguar"
+  },
+  "8": {
+    "name": "Alpaca Suri"
+  },
+  "9": {
+    "name": "Lion"
+  },
+  "10": {
+    "name": "Moose"
+  },
+  "11": {
+    "name": "Northern White-faced Owl"
+  },
+  "12": {
+    "name": "Eurasian Eagle Owl"
+  },
+  "13": {
+    "name": "Ezo Red Fox"
+  },
+  "14": {
+    "name": "Silver Fox"
+  },
+  "15": {
+    "name": "Golden Snub-nosed Monkey"
+  },
+  "16": {
+    "name": "Brown Bear"
+  },
+  "17": {
+    "name": "Sheep"
+  },
+  "18": {
+    "name": "Blackbuck"
+  },
+  "19": {
+    "name": "Californian Sea Otter"
+  },
+  "20": {
+    "name": "Australian Devil"
+  },
+  "21": {
+    "name": "Peach Panther"
+  },
+  "22": {
+    "name": "Meerkat"
+  },
+  "23": {
+    "name": "Chinese Spot-Billed Duck"
+  },
+  "24": {
+    "name": "Royal Penguin"
+  },
+  "25": {
+    "name": "Emperor Penguin"
+  },
+  "26": {
+    "name": "Humboldt Penguin"
+  },
+  "27": {
+    "name": "Rockhopper Penguin"
+  },
+  "28": {
+    "name": "Gentoo Penguin"
+  },
+  "29": {
+    "name": "Plains Zebra"
+  },
+  "30": {
+    "name": "Thomson's Gazelle"
+  },
+  "31": {
+    "name": "Hippopotamus"
+  },
+  "33": {
+    "name": "Malayan Tapir"
+  },
+  "34": {
+    "name": "Fossa"
+  },
+  "35": {
+    "name": "Indian Elephant"
+  },
+  "37": {
+    "name": "King Cobra"
+  },
+  "38": {
+    "name": "Southern Tamandua"
+  },
+  "39": {
+    "name": "Peafowl"
+  },
+  "41": {
+    "name": "Okapi"
+  },
+  "42": {
+    "name": "Japanese Crested Ibis"
+  },
+  "43": {
+    "name": "Scarlet Ibis"
+  },
+  "44": {
+    "name": "Sand Cat"
+  },
+  "45": {
+    "name": "Tsuchinoko"
+  },
+  "46": {
+    "name": "American Beaver"
+  },
+  "47": {
+    "name": "Black-tailed Prairie Dog"
+  },
+  "48": {
+    "name": "Aurochs"
+  },
+  "49": {
+    "name": "Arabian oryx"
+  },
+  "51": {
+    "name": "White Rhinoceros"
+  },
+  "52": {
+    "name": "Panther Chameleon"
+  },
+  "53": {
+    "name": "Shoebill"
+  },
+  "54": {
+    "name": "Giant Armadillo"
+  },
+  "56": {
+    "name": "Margay"
+  },
+  "57": {
+    "name": "Capybara"
+  },
+  "58": {
+    "name": "Campo Flicker"
+  },
+  "59": {
+    "name": "Gray Wolf"
+  },
+  "60": {
+    "name": "Reticulated Giraffe"
+  },
+  "61": {
+    "name": "African Wild Dog"
+  },
+  "62": {
+    "name": "Common Dolphin"
+  },
+  "63": {
+    "name": "Mammoth"
+  },
+  "64": {
+    "name": "White Tiger"
+  },
+  "65": {
+    "name": "Saber-Toothed Tiger"
+  },
+  "66": {
+    "name": "Greater Flamingo"
+  },
+  "67": {
+    "name": "Raccoon Dog"
+  },
+  "68": {
+    "name": "Black Leopard"
+  },
+  "69": {
+    "name": "Cheetah"
+  },
+  "70": {
+    "name": "Blue Whale"
+  },
+  "71": {
+    "name": "Giant Penguin"
+  },
+  "72": {
+    "name": "Holstein Friesian Cattle"
+  },
+  "73": {
+    "name": "Tibetan Fox"
+  },
+  "74": {
+    "name": "Atlantic Puffin"
+  },
+  "75": {
+    "name": "Silky Anteater"
+  },
+  "76": {
+    "name": "Great Auk"
+  },
+  "77": {
+    "name": "Manul"
+  },
+  "78": {
+    "name": "Giant Anteater"
+  },
+  "79": {
+    "name": "Aye-aye"
+  },
+  "82": {
+    "name": "Masked Booby"
+  },
+  "83": {
+    "name": "Dromedary"
+  },
+  "84": {
+    "name": "Bactrian Camel"
+  },
+  "85": {
+    "name": "Western Lowland Gorilla"
+  },
+  "87": {
+    "name": "Common Ostrich"
+  },
+  "88": {
+    "name": "Reindeer"
+  },
+  "89": {
+    "name": "Black rhinoceros"
+  },
+  "91": {
+    "name": "Arctic Hare"
+  },
+  "92": {
+    "name": "Alpine Marmot"
+  },
+  "93": {
+    "name": "Chinese White Dolphin"
+  },
+  "94": {
+    "name": "Californian Sea Lion"
+  },
+  "95": {
+    "name": "Komodo Dragon"
+  },
+  "97": {
+    "name": "Common Slider"
+  },
+  "98": {
+    "name": "Genbu"
+  },
+  "99": {
+    "name": "Seiryu"
+  },
+  "100": {
+    "name": "Byakko"
+  },
+  "101": {
+    "name": "Suzaku"
+  },
+  "102": {
+    "name": "Shisa Lefty"
+  },
+  "103": {
+    "name": "Shisa Right"
+  },
+  "104": {
+    "name": "Oinarisama"
+  },
+  "105": {
+    "name": "Kyubikitsune"
+  },
+  "106": {
+    "name": "Bearded Seal"
+  },
+  "108": {
+    "name": "African Elephant"
+  },
+  "109": {
+    "name": "African Rock Python"
+  },
+  "110": {
+    "name": "Greater Rhea"
+  },
+  "112": {
+    "name": "Cat"
+  },
+  "113": {
+    "name": "Unicorn Whale"
+  },
+  "114": {
+    "name": "Inugamigyoubu"
+  },
+  "118": {
+    "name": "Giant Pangolin"
+  },
+  "119": {
+    "name": "Northern Goshawk"
+  },
+  "120": {
+    "name": "Greater Roadrunner"
+  },
+  "125": {
+    "name": "Bergman's Bear"
+  },
+  "127": {
+    "name": "Caracal"
+  },
+  "132": {
+    "name": "Koala"
+  },
+  "133": {
+    "name": "Golden Tabby Tiger"
+  },
+  "134": {
+    "name": "Kodiak Bear"
+  },
+  "135": {
+    "name": "Coyote"
+  },
+  "136": {
+    "name": "Sivatherium"
+  },
+  "138": {
+    "name": "Giant Panda"
+  },
+  "140": {
+    "name": "Jinmengyo"
+  },
+  "141": {
+    "name": "Sky Fish"
+  },
+  "143": {
+    "name": "Dire Wolf"
+  },
+  "145": {
+    "name": "Danzaburoudanuki"
+  },
+  "147": {
+    "name": "Tiger"
+  },
+  "148": {
+    "name": "Japanese Wolf"
+  },
+  "149": {
+    "name": "Japanese Otter"
+  },
+  "151": {
+    "name": "Barbary Lion"
+  },
+  "153": {
+    "name": "Bald Eagle"
+  },
+  "154": {
+    "name": "Jungle Crow"
+  },
+  "155": {
+    "name": "Okinawa Habu"
+  },
+  "156": {
+    "name": "Bottlenose Dolphin"
+  },
+  "158": {
+    "name": "Leopard"
+  },
+  "161": {
+    "name": "Black Jaguar"
+  },
+  "162": {
+    "name": "Polar Bear"
+  },
+  "165": {
+    "name": "Maltese Tiger"
+  },
+  "166": {
+    "name": "Mexico Salamander"
+  },
+  "168": {
+    "name": "Yatagarasu"
+  },
+  "170": {
+    "name": "Okinawa Rail"
+  },
+  "172": {
+    "name": "Donkey"
+  },
+  "173": {
+    "name": "Yamatanoorochi"
+  },
+  "174": {
+    "name": "Lesser Panda"
+  },
+  "176": {
+    "name": "Chapman's Zebra"
+  },
+  "178": {
+    "name": "Chicken"
+  },
+  "179": {
+    "name": "Alpaca Huacaya"
+  },
+  "180": {
+    "name": "White Lion"
+  },
+  "182": {
+    "name": "Geoffroy's Cat"
+  },
+  "188": {
+    "name": "Red Fox"
+  },
+  "189": {
+    "name": "Arctic Fox"
+  },
+  "191": {
+    "name": "Bat-Eared Fox"
+  },
+  "192": {
+    "name": "Island Fox"
+  },
+  "193": {
+    "name": "Aardwolf"
+  },
+  "195": {
+    "name": "Dog"
+  },
+  "196": {
+    "name": "Ezo Brown Bear"
+  },
+  "197": {
+    "name": "Gambian Rat"
+  },
+  "199": {
+    "name": "King Penguin"
+  },
+  "200": {
+    "name": "Adélie Penguin"
+  },
+  "203": {
+    "name": "Blue Wildebeest"
+  },
+  "204": {
+    "name": "Black Wildebeest"
+  },
+  "205": {
+    "name": "Raiju"
+  },
+  "207": {
+    "name": "Mountain Tapir"
+  },
+  "210": {
+    "name": "Pink Fairy Armadillo"
+  },
+  "214": {
+    "name": ""
+  },
+  "217": {
+    "name": "African Penguin"
+  },
+  "218": {
+    "name": "Wolverine"
+  },
+  "219": {
+    "name": "Ratel"
+  },
+  "221": {
+    "name": "Salt-water Crocodile"
+  },
+  "222": {
+    "name": "Shiserval Right"
+  },
+  "223": {
+    "name": "Shiserval Lefty"
+  },
+  "227": {
+    "name": "Steller Sea Lion"
+  },
+  "233": {
+    "name": "Chestnut Thoroughbred Horse"
+  },
+  "234": {
+    "name": "Brown Thoroughbred Horse"
+  },
+  "235": {
+    "name": "White Thoroughbred Horse"
+  },
+  "236": {
+    "name": "Vampire Bat"
+  },
+  "237": {
+    "name": "Long-tailed Whiskered Bat"
+  },
+  "239": {
+    "name": "Black-Headed Ibis"
+  },
+  "241": {
+    "name": "Serval"
+  },
+  "242": {
+    "name": "Superb Bird-of-Paradise"
+  },
+  "243": {
+    "name": "Western Parotia"
+  },
+  "244": {
+    "name": "Degu"
+  },
+  "245": {
+    "name": "Long-tailed Chinchilla"
+  },
+  "247": {
+    "name": "Greater Tube-nosed Bat"
+  },
+  "248": {
+    "name": "White Bat"
+  },
+  "252": {
+    "name": "Walrus"
+  },
+  "253": {
+    "name": "Harp Seal"
+  },
+  "254": {
+    "name": "Clouded Leopard"
+  },
+  "257": {
+    "name": "Arctic Wolf"
+  },
+  "258": {
+    "name": "Striated Caracara"
+  },
+  "260": {
+    "name": "Black-tailed Gull"
+  },
+  "263": {
+    "name": "Greater Honeyguide"
+  },
+  "264": {
+    "name": "Scarlet Macaw"
+  },
+  "265": {
+    "name": "Resplendent Quetzal"
+  },
+  "267": {
+    "name": "Siberian Husky"
+  },
+  "273": {
+    "name": "Passenger Pigeon"
+  },
+  "275": {
+    "name": "Giant Otter"
+  },
+  "276": {
+    "name": "Secretarybird"
+  },
+  "277": {
+    "name": "Ringtail"
+  },
+  "282": {
+    "name": "Greater Bird-of-Paradise"
+  },
+  "284": {
+    "name": "Indian Wolf"
+  },
+  "290": {
+    "name": "Emerald Tree Boa"
+  },
+  "291": {
+    "name": "Garden Tree Boa"
+  },
+  "296": {
+    "name": "De Brazza's Monkey"
+  },
+  "301": {
+    "name": "Orca"
+  },
+  "302": {
+    "name": "Dog"
+  },
+  "306": {
+    "name": ""
+  },
+  "307": {
+    "name": "Amur Tiger"
+  },
+  "314": {
+    "name": "Pronghorn"
+  },
+  "316": {
+    "name": "Jack-o'-Lantern"
+  },
+  "318": {
+    "name": "Cerberus"
+  },
+  "321": {
+    "name": "Cellval"
+  },
+  "322": {
+    "name": "Serval"
+  },
+  "323": {
+    "name": "Pig"
+  },
+  "324": {
+    "name": "Peregrine Falcon"
+  },
+  "327": {
+    "name": "White Serval"
+  },
+  "333": {
+    "name": "Tasmanian Devil"
+  },
+  "334": {
+    "name": "Blackbuck"
+  },
+  "335": {
+    "name": "Californian Sea Otter"
+  },
+  "336": {
+    "name": "Australian Devil"
+  },
+  "337": {
+    "name": "Common Dolphin"
+  },
+  "338": {
+    "name": "Blue Whale"
+  },
+  "339": {
+    "name": "Californian Sea Lion"
+  },
+  "340": {
+    "name": "Common Raccoon"
+  },
+  "341": {
+    "name": "Fennec"
+  },
+  "342": {
+    "name": "Fennec"
+  },
+  "343": {
+    "name": ""
+  },
+  "344": {
+    "name": ""
+  },
+  "345": {
+    "name": ""
+  },
+  "346": {
+    "name": ""
+  },
+  "347": {
+    "name": ""
+  },
+  "349": {
+    "name": "Royal Penguin"
+  },
+  "350": {
+    "name": "Southern Tamandua"
+  },
+  "351": {
+    "name": "Tasmanian Devil"
+  },
+  "352": {
+    "name": "Lion"
+  },
+  "353": {
+    "name": "Blackbuck"
+  },
+  "354": {
+    "name": "Australian Devil"
+  },
+  "355": {
+    "name": "Malayan Tapir"
+  },
+  "356": {
+    "name": "Common Ostrich"
+  },
+  "357": {
+    "name": "Chapman's Zebra"
+  },
+  "358": {
+    "name": "Common Raccoon"
+  },
+  "359": {
+    "name": "Japanese Crested Ibis"
+  },
+  "360": {
+    "name": "Fennec"
+  },
+  "363": {
+    "name": "Sand Cat"
+  },
+  "364": {
+    "name": "Dhole"
+  },
+  "365": {
+    "name": "Small-clawed Otter"
+  },
+  "366": {
+    "name": "Tsuchinoko"
+  },
+  "367": {
+    "name": "Ezo Red Fox"
+  },
+  "368": {
+    "name": "Silver Fox"
+  },
+  "369": {
+    "name": "Yak"
+  },
+  "380": {
+    "name": "Hello Kitty♥serval"
+  },
+  "381": {
+    "name": "Hello Mimmy♥serval"
+  },
+  "382": {
+    "name": "Jaguar"
+  },
+  "383": {
+    "name": "Black Jaguar"
+  },
+  "384": {
+    "name": "Common Dolphin"
+  },
+  "385": {
+    "name": "Meerkat"
+  },
+  "386": {
+    "name": "Caracal"
+  },
+  "387": {
+    "name": "Cellval"
+  },
+  "388": {
+    "name": "Phoenix"
+  },
+  "389": {
+    "name": "Unico"
+  },
+  "390": {
+    "name": "Bald Eagle"
+  },
+  "391": {
+    "name": "Northern Goshawk"
+  },
+  "394": {
+    "name": "Makami"
+  },
+  "395": {
+    "name": "Son Goku"
+  },
+  "396": {
+    "name": "Witch"
+  },
+  "397": {
+    "name": "Draco Centaur"
+  },
+  "398": {
+    "name": "\tJapanese Macaque"
+  },
+  "399": {
+    "name": "Tachikoma Standard"
+  },
+  "400": {
+    "name": "Tachikoma Heavy-armed"
+  },
+  "401": {
+    "name": "Paraceratherium"
+  },
+  "402": {
+    "name": "Goshingyusama"
+  },
+  "403": {
+    "name": ""
+  },
+  "405": {
+    "name": "Green Pheasant"
+  },
+  "406": {
+    "name": "Helmeted Guineafowl"
+  },
+  "407": {
+    "name": "Bornean Orangutan"
+  },
+  "408": {
+    "name": "Tibetan Fox"
+  },
+  "409": {
+    "name": "Manul"
+  },
+  "411": {
+    "name": "Eastern Quoll"
+  },
+  "412": {
+    "name": "Rhinoceros Hornbill"
+  },
+  "413": {
+    "name": "Great Hornbill"
+  },
+  "420": {
+    "name": "Debirusama"
+  },
+  "421": {
+    "name": "Tasmanian Devil"
+  },
+  "422": {
+    "name": "Australian Devil"
+  },
+  "901": {
+    "name": ""
+  },
+  "902": {
+    "name": ""
+  },
+  "995": {
+    "name": "Tachikoma Standard"
+  },
+  "996": {
+    "name": "Tachikoma Heavy-armed"
+  },
+  "997": {
+    "name": "White Serval"
+  }
+}
