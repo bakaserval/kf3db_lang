@@ -22,13 +22,13 @@
   "#photo-open-btn": "打开原图",
   "#chara-costume": "服装",
   "#chara-skill": "技能",
-  "#status-name": "角色名",
-  "#status-attr": "属性",
-  "#status-rarity": "稀有度",
-  "#status-max": "最高级",
-  "#status-status": "Status",
-  "#status-hp": "血量",
-  "#status-atk": "攻击",
-  "#status-def": "防御",
-  "#status-evd": "闪避"
+  "!status-table-name": "角色名",
+  "!status-table-attr": "属性",
+  "!status-table-rarity": "稀有度",
+  "!status-table-max": "最高级",
+  "!status-table-status": "Status",
+  "!status-table-hp": "血量",
+  "!status-table-atk": "攻击",
+  "!status-table-def": "防御",
+  "!status-table-evd": "闪避"
 }
