@@ -22,10 +22,10 @@
   "#photo-open-btn": "打开原图",
   "#chara-costume": "服装",
   "#chara-skill": "技能",
-  "!status-table-name": "角色名",
+  "!status-table-name": "角色",
   "!status-table-attribute": "属性",
   "!status-table-rarity": "稀有度",
-  "!status-table-data.hp": "血量",
+  "!status-table-data.hp": "体力",
   "!status-table-data.atk": "攻击",
   "!status-table-data.def": "防御",
   "!status-table-data.evd": "闪避",
@@ -39,5 +39,12 @@
   ".photo-modal-story-base": "初始",
   ".photo-modal-story-upgraded": "满星",
   "#photo-modal-photo": "照片",
-  "#photo-modal-illustrator": "画师："
+  "#photo-modal-illustrator": "画师：",
+  "!photo-table-name": "照片",
+  "!photo-table-type": "类型",
+  "!photo-table-rarity": "稀有度",
+  "!photo-table-hp": "体力",
+  "!photo-table-atk": "攻击",
+  "!photo-table-def": "防御",
+  "!photo-table-effect": "特性"
 }

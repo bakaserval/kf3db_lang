@@ -45,5 +45,12 @@
   ".photo-modal-story-base": "Base",
   ".photo-modal-story-upgraded": "Upgraded",
   "#photo-modal-photo": "Photo",
-  "#photo-modal-illustrator": "Illustrator: "
+  "#photo-modal-illustrator": "Illustrator: ",
+  "!photo-table-name": "Name",
+  "!photo-table-type": "Type",
+  "!photo-table-rarity": "Rarity",
+  "!photo-table-hp": "Stamina",
+  "!photo-table-atk": "Attack",
+  "!photo-table-def": "Defense",
+  "!photo-table-effect": "Unique Trait"
 }
