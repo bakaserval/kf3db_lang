@@ -46,5 +46,12 @@
   "!photo-table-hp": "体力",
   "!photo-table-atk": "攻击",
   "!photo-table-def": "防御",
-  "!photo-table-effect": "特性"
+  "!photo-table-effect": "特性",
+  ".scenario-cat-main": "主线故事",
+  ".scenario-cat-cellval": "薮胞无目的的旅行",
+  ".scenario-cat-friends": "朋友故事",
+  ".scenario-cat-event": "活动",
+  ".scenario-cat-arai": "阿莱桑队长日记",
+  ".scenario-cat-other": "其他",
+  ".scenario-chapter": { "format": "第 %0 章" }
 }
