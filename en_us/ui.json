@@ -54,6 +54,7 @@
   "!photo-table-def": "Defense",
   "!photo-table-effect": "Unique Trait",
   ".scenario-cat-main": "Main Story",
+  ".scenario-cat-main2": "Main Story S2",
   ".scenario-cat-cellval":"Cellval Story",
   ".scenario-cat-friends": "Friends Story",
   ".scenario-cat-event": "Events",
