@@ -28,12 +28,12 @@
   "#chara-skill-ability": { "text": "Unique Trait", "tooltip": true },
   "#chara-skill-kiseki": { "text": "Miracle Trait", "tooltip": true },
   "!status-table-name": "Name",
-  "!status-table-attr": "Attribute",
+  "!status-table-attribute": "Attribute",
   "!status-table-rarity": "Rarity",
-  "!status-table-max": "Max",
-  "!status-table-status": "Status",
-  "!status-table-hp": "Stamina",
-  "!status-table-atk": "Attack",
-  "!status-table-def": "Defense",
-  "!status-table-evd": "Evasion"
+  "!status-table-title-max": "Max",
+  "!status-table-data.status": "Status",
+  "!status-table-data.hp": "Stamina",
+  "!status-table-data.atk": "Attack",
+  "!status-table-data.def": "Defense",
+  "!status-table-data.evd": "Evasion"
 }
