@@ -30,10 +30,20 @@
   "!status-table-name": "Name",
   "!status-table-attribute": "Attribute",
   "!status-table-rarity": "Rarity",
-  "!status-table-title-max": "Max",
   "!status-table-data.status": "Status",
   "!status-table-data.hp": "Stamina",
   "!status-table-data.atk": "Attack",
   "!status-table-data.def": "Defense",
-  "!status-table-data.evd": "Evasion"
+  "!status-table-data.evd": "Evasion",
+  "#photo-other-btn": "Others",
+  "#photo-modal-stats": "Stats",
+  "#photo-modal-type": "Type",
+  "#photo-modal-rarity": "Rarity",
+  "#photo-modal-effect-base": "Base",
+  "#photo-modal-effect-upgraded": "Upgraded",
+  "#photo-modal-story": "Story",
+  ".photo-modal-story-base": "Base",
+  ".photo-modal-story-upgraded": "Upgraded",
+  "#photo-modal-photo": "Photo",
+  "#photo-modal-illustrator": "Illustrator: "
 }

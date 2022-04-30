@@ -25,9 +25,19 @@
   "!status-table-name": "角色名",
   "!status-table-attribute": "属性",
   "!status-table-rarity": "稀有度",
-  "!status-table-title-max": "最高级",
   "!status-table-data.hp": "血量",
   "!status-table-data.atk": "攻击",
   "!status-table-data.def": "防御",
-  "!status-table-data.evd": "闪避"
+  "!status-table-data.evd": "闪避",
+  "#photo-other-btn": "其他",
+  "#photo-modal-stats": "属性",
+  "#photo-modal-type": "类型",
+  "#photo-modal-rarity": "稀有度",
+  "#photo-modal-effect-base": "初始",
+  "#photo-modal-effect-upgraded": "满星",
+  "#photo-modal-story": "故事",
+  ".photo-modal-story-base": "初始",
+  ".photo-modal-story-upgraded": "满星",
+  "#photo-modal-photo": "照片",
+  "#photo-modal-illustrator": "画师："
 }
