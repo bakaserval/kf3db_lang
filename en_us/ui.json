@@ -26,5 +26,14 @@
   "#chara-skill-attack": { "text": "Beat!!! Ability", "tooltip": true },
   "#chara-skill-wait": { "text": "Standby Skill", "tooltip": true },
   "#chara-skill-ability": { "text": "Unique Trait", "tooltip": true },
-  "#chara-skill-kiseki": { "text": "Miracle Trait", "tooltip": true }
+  "#chara-skill-kiseki": { "text": "Miracle Trait", "tooltip": true },
+  "#status-name": "Name",
+  "#status-attr": "Attribute",
+  "#status-rarity": "Rarity",
+  "#status-max": "Max",
+  "#status-status": "Status",
+  "#status-hp": "Stamina",
+  "#status-atk": "Attack",
+  "#status-def": "Defense",
+  "#status-evd": "Evasion"
 }
