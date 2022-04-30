@@ -12,5 +12,14 @@
   },
   ".update-last-check-text": "Last check:",
   "#update-ongoing-text": "Data Updating ",
-  "#update-cancelled-text": "Last update cancelled"
+  "#update-cancelled-text": "Last update cancelled",
+  "#chara-info": "Introduction",
+  "#chara-icon": "Avatar",
+  "#chara-photo": "Photo",
+  ".photo-base-btn": "Base",
+  ".photo-upgraded-btn": "Upgraded",
+  "#photo-frame-btn": "Frame",
+  "#photo-open-btn": "Original file",
+  "#chara-costume": "Costumes",
+  "#chara-skill": "Skills"
 }

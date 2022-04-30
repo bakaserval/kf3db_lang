@@ -12,5 +12,14 @@
   },
   ".update-last-check-text": "上次检查时间：",
   "#update-ongoing-text": "更新中 ",
-  "#update-cancelled-text": "更新中断"
+  "#update-cancelled-text": "更新中断",
+  "#chara-info": "简介",
+  "#chara-icon": "头像",
+  "#chara-photo": "照片",
+  ".photo-base-btn": "Base",
+  ".photo-upgraded-btn": "Upgraded",
+  "#photo-frame-btn": "Frame",
+  "#photo-open-btn": "Original file",
+  "#chara-costume": "Costumes",
+  "#chara-skill": "Skills"
 }
