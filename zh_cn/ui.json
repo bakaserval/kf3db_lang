@@ -8,7 +8,7 @@
   "#event-future-title": "未来活动",
   "#update-check-btn": "更新",
   "#update-manual-check": {
-    "title": "手动更新每 10 分钟可按一次"
+    "tooltip": "手动更新每 10 分钟可按一次"
   },
   ".update-last-check-text": "上次检查时间：",
   "#update-ongoing-text": "更新中 ",
