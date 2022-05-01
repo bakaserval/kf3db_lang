@@ -70,5 +70,15 @@
   "#quest-arai": "Captain Arai-san's Diary",
   "#quest-growth": "Growth Quests",
   "#quest-friends": "Friends Story",
-  ".quest-chapter": { "format": "Chapter %0" }
+  ".quest-chapter": { "format": "Chapter %0" },
+  ".quest-info-stamina": "Stamina Cost",
+  ".quest-info-limit": "Clear Limited",
+  ".quest-info-limit-unit": "times",
+  ".quest-info-unlock": "Item Need",
+  ".quest-info-reward": "Reward",
+  ".quest-info-difficulty": "Difficulty",
+  ".quest-info-exp": "Exp",
+  ".quest-info-friends-exp": "Friends Exp",
+  ".quest-info-kizuna": "Kizuna Point",
+  ".quest-info-coin": "Coins"
 }

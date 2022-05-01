@@ -64,5 +64,15 @@
   "#quest-arai": "阿莱桑队长日记",
   "#quest-growth": "成长任务",
   "#quest-friends": "Friends 任务",
-  ".quest-chapter": { "format": "第 %0 章" }
+  ".quest-chapter": { "format": "第 %0 章" },
+  ".quest-info-stamina": "体力消耗",
+  ".quest-info-limit": "次数限制",
+  ".quest-info-limit-unit": "次",
+  ".quest-info-unlock": "消耗物品",
+  ".quest-info-reward": "奖励",
+  ".quest-info-difficulty": "难度",
+  ".quest-info-exp": "经验",
+  ".quest-info-friends-exp": "Friends 经验",
+  ".quest-info-kizuna": "Friends 友情点",
+  ".quest-info-coin": "金币"
 }
