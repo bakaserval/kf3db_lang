@@ -54,5 +54,15 @@
   ".scenario-cat-event": "活动",
   ".scenario-cat-arai": "阿莱桑队长日记",
   ".scenario-cat-other": "其他",
-  ".scenario-chapter": { "format": "第 %0 章" }
+  ".scenario-chapter": { "format": "第 %0 章" },
+  "#quest-event": "活动任务",
+  "#quest-main": "主线故事",
+  ".quest-normal": "普通",
+  ".quest-hard": "困难",
+  "#quest-cellval": "薮胞无目的的旅行",
+  "#quest-main2": "主线 第二季",
+  "#quest-arai": "阿莱桑队长日记",
+  "#quest-growth": "成长任务",
+  "#quest-friends": "Friends 任务",
+  ".quest-chapter": { "format": "第 %0 章" }
 }

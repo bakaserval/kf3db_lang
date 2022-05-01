@@ -55,10 +55,20 @@
   "!photo-table-effect": "Unique Trait",
   ".scenario-cat-main": "Main Story",
   ".scenario-cat-main2": "Main Story S2",
-  ".scenario-cat-cellval":"Cellval Story",
+  ".scenario-cat-cellval": "Cellval Story",
   ".scenario-cat-friends": "Friends Story",
   ".scenario-cat-event": "Events",
   ".scenario-cat-arai": "Captain Arai-san's Diary",
   ".scenario-cat-other": "Others",
-  ".scenario-chapter": { "format": "Chapter %0" }
+  ".scenario-chapter": { "format": "Chapter %0" },
+  "#quest-event": "Event Quests",
+  "#quest-main": "Main Story",
+  ".quest-normal": "Normal",
+  ".quest-hard": "Hard",
+  "#quest-cellval": "Cellval Story",
+  "#quest-main2": "Main Story S2",
+  "#quest-arai": "Captain Arai-san's Diary",
+  "#quest-growth": "Growth Quests",
+  "#quest-friends": "Friends Story",
+  ".quest-chapter": { "format": "Chapter %0" }
 }
