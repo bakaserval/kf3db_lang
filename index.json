@@ -1,7 +1,8 @@
 {
   "lang": {
     "en_us": { "name": "English", "file": ["ui", "chara"] },
-    "zh_cn": { "name": "简体中文", "file": ["ui"] }
+    "zh_cn": { "name": "简体中文", "file": ["ui"] },
+    "ko_kr": { "name": "한국어", "file": ["ui", "chara"] }
   },
   "default": {
     "ui": "en_us",
