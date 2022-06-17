@@ -43,7 +43,7 @@ def chara():
                   indent=2,
                   ensure_ascii=False)
 
-    cdata_en.columns = ['name']
+    cdata_en.columns = ['name', 'nickname', 'eponymName', 'flavorText', 'animalFlavorText']
     if os.path.exists(os.path.join('en_us', 'chara.json')):
         old_en = pd.read_json(os.path.join('en_us', 'chara.json'),
                               orient='index')
